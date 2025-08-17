@@ -1,4 +1,4 @@
-# Home Assistant add-on: Syncthing 🔄 by Fabio Garavini
+# Home Assistant add-on: Syncthing 🔄 by Fabio Garavini forked by PowerBlade
 
 ![Addon Stage][stable-badge]
 ![Supports aarch64 Architecture][aarch64-badge]
