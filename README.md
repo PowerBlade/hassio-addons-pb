@@ -1,4 +1,4 @@
-# Home Assistant 🏠 add-ons: by Fabio Garavini
+# Home Assistant 🏠 add-ons: by Fabio Garavini-forked by PowerBlade
 
 Collection of easy to use self-hosted services tuned for Home Assistant
 
